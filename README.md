@@ -59,7 +59,7 @@ Smart-Irrigation-System/
 ├── processing/       # Processing desktop dashboard
 ├── mobile-app/       # Android APK, QR code and App Inventor blocks
 ├── hardware/         # Fritzing circuit and prototype images
-└──docs/             # Project report, presentation and task distribution
+└── docs/             # Project report, presentation and task distribution
 ```
 
 ## Getting Started
