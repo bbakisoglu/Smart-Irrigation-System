@@ -94,7 +94,9 @@ The compiled application is available at `mobile-app/Sulamatik.apk`. Pair the An
 
 ### MIT App Inventor Blocks
 
-![MIT App Inventor blocks](mobile-app/mit-app-inventor-blocks.png)
+| | |
+|---|---|
+![MIT App Inventor blocks](mobile-app/mit-app-inventor-blocks.png) | ![MIT App Inventor blocks](mobile-app/OneUI_Home.jpg.jpeg) 
 
 ### Prototype
 
